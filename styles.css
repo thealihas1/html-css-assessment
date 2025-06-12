@@ -61,23 +61,3 @@ header {
 	justify-content: space-between;
 
 }
-
-.container3 {
-	border:1px solid blue;
-	height: 300px;
-	width: 300px;
-	display: inline-flex;
-	flex-direction: row;
-	justify-content: space-between;
-
-
-}
-.container4 {
-	border:1px solid black;
-	height: 300px;
-	width: 300px;
-	display: inline-flex;
-	flex-direction: row;
-	justify-content: space-between;
-}
-
